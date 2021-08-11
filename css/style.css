@@ -1,0 +1,62 @@
+
+/* #1F1F1F
+#f5f5f5
+# rgba(114, 104, 211, 0.8)
+#3D3D3D; */
+body {
+   width: 100%;
+    background-image: url("https://westeurope1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Falqudscollege-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!2spDmTvk_Ey3l_QSLPv1vkLnsRzUCaRDqWTh1FX8GP5tUMRzFWzmQ47zimRsNl9q%2Fitems%2F015YABFJXHGVDY2GB3KVDZEBRU55PJGNVY%3Fversion%3DPublished&cTag=%22c%3A%7B8D4735E7-3B18-4755-9206-34EF5E9336B8%7D%2C1%22&encodeFailures=1&srcWidth=&srcHeight=&width=626&height=417&action=Access");
+    background-color: #f5f5f5;
+    font-family: 'Noto Sans SC', sans-serif;
+   }
+
+
+   .form {
+       
+       background-color:rgba(114, 104, 211, 0.8);
+       width: 35%;
+       float: left;
+   }
+
+   .table {
+       text-align: center;
+    background-color:rgba(114, 104, 211, 0.8);
+       width: 50%;
+       float: right;
+   }
+
+   h1 {
+       color:#f5f5f5 ;
+       background-color:#1F1F1F;
+       text-align: center;
+   }
+
+   table {
+      margin:auto;
+       border: 1px solid #f5f5f5;
+       text-align: center;
+    background-color:rgba(114, 104, 211, 0.8);
+   }
+
+   th{
+    border: 1px solid #f5f5f5;
+    text-align: center;
+    color: #f5f5f5;
+    background-color: #1F1F1F;
+   }
+   td {
+    border: 1px solid #f5f5f5;
+       text-align: center;
+       color: #f5f5f5;
+       background-color:#3D3D3D ;
+   }
+
+   fieldset {
+       color:#f5f5f5 ;
+       text-align: center;
+   }
+
+   #submit {
+color: #f5f5f5;
+background-color: #1F1F1F;
+   }
